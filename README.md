@@ -24,7 +24,7 @@ I am open to collaboration so those who are interested are more than welcome to 
 Email: Blf67@cornell.edu
 <img width="314" height="707" alt="taskinput" src="https://github.com/user-attachments/assets/cfc52132-bfa8-4636-8df1-743495eeba88" />
 <img width="319" height="711" alt="i<img width="322" height="712" alt="previewcard" src="https://github.com/user-attachments/assets/b5932ecb-7be0-446f-9a47-780ccf411b27" />
-nvitecardOpened" src="https://github.com/user-attachments/assets/cd9c5436-d48d-43ff-84c0-76a31b686c2a" />
+
 
 
 
