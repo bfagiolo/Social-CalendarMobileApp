@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949576248176",
+    "project_id": "nlpcalendar-abed3",
+    "storage_bucket": "nlpcalendar-abed3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949576248176:android:ec307611a6582983e87db5",
+        "android_client_info": {
+          "package_name": "com.example.finalproject3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT1SBG23trxSsO2MIAwQlORFPHdC_GFRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

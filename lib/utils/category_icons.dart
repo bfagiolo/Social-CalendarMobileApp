@@ -1,0 +1,81 @@
+import 'package:flutter/material.dart';
+
+final Map<String, List<IconData>> categoryIcons = {
+  'Exercise': [
+    Icons.fitness_center,
+    Icons.directions_run,
+    Icons.directions_bike,
+    Icons.sports_handball,
+    Icons.accessibility,
+  ],
+  'Food': [
+    Icons.fastfood,
+    Icons.local_pizza,
+    Icons.ramen_dining,
+    Icons.local_cafe,
+    Icons.restaurant,
+  ],
+  'School': [
+    Icons.school,
+    Icons.book,
+    Icons.edit,
+    Icons.menu_book,
+    Icons.lightbulb,
+  ],
+  'Work': [
+    Icons.work,
+    Icons.laptop,
+    Icons.bar_chart,
+    Icons.desktop_windows,
+    Icons.phone,
+  ],
+  'Chore': [
+    Icons.cleaning_services,
+    Icons.delete_outline,
+    Icons.local_laundry_service,
+    Icons.build,
+    Icons.plumbing,
+  ],
+  'Shopping': [
+    Icons.shopping_cart,
+    Icons.store,
+    Icons.receipt_long,
+    Icons.credit_card,
+    Icons.local_offer,
+  ],
+  'Health': [
+    Icons.health_and_safety,
+    Icons.healing,
+    Icons.monitor_heart,
+    Icons.vaccines,
+    Icons.medication,
+  ],
+  'Religion': [
+    Icons.self_improvement,
+    Icons.wb_incandescent,
+    Icons.light_mode,
+    Icons.spa,
+    Icons.mosque,
+  ],
+  'Travel': [
+    Icons.flight,
+    Icons.train,
+    Icons.directions_car,
+    Icons.place,
+    Icons.beach_access,
+  ],
+  'Entertainment': [
+    Icons.movie,
+    Icons.videogame_asset,
+    Icons.mic,
+    Icons.theater_comedy,
+    Icons.live_tv,
+  ],
+  'Social': [
+    Icons.group,
+    Icons.cake,
+    Icons.celebration,
+    Icons.chat,
+    Icons.people_alt,
+  ],
+};
