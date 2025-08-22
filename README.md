@@ -23,6 +23,9 @@ This project is shared for viewing and learning purposes only. All rights are re
 I am open to collaboration so those who are interested are more than welcome to reach out. 
 Email: Blf67@cornell.edu
 
+https://github.com/user-attachments/assets/3fa7ab47-1fe7-4238-9046-b35e3aa5e3cf
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6fab4d24-b393-4dc5-adaa-8b87554659d8" width="300" />
 </p>
@@ -32,9 +35,6 @@ Email: Blf67@cornell.edu
 </p>
 
 
-
-
-https://github.com/user-attachments/assets/3fa7ab47-1fe7-4238-9046-b35e3aa5e3cf
 
 
 
