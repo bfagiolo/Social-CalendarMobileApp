@@ -22,13 +22,13 @@ This project is shared for viewing and learning purposes only. All rights are re
 
 I am open to collaboration so those who are interested are more than welcome to reach out. 
 Email: Blf67@cornell.edu
-<img width="314" height="707" alt="taskinput" src="https://github.com/user-attachments/assets/cfc52132-bfa8-4636-8df1-743495eeba88" />
-<img width="319" height="711" alt="i<img width="322" height="712" alt="previewcard" src="https://github.com/user-attachments/assets/b5932ecb-7be0-446f-9a47-780ccf411b27" />
-
-
-
 
 https://github.com/user-attachments/assets/4629853a-2f6d-4181-9951-a734ba77875d
+<img width="314" height="707" alt="taskinput" src="https://github.com/user-attachments/assets/6fab4d24-b393-4dc5-adaa-8b87554659d8" />
+
+<img width="322" height="712" alt="previewcard" src="https://github.com/user-attachments/assets/0ae41782-eef3-459b-aaf9-67a4127c9d9d" />
+
+
 
 
 
