@@ -1,4 +1,4 @@
-# Social-CalendarMobileApp
+# Stamp AI
 
 Stamp is a smart social calendar app designed to make event planning effortless, fun, and iconic.
 At its core, Stamp uses natural language processing to transform casual text inputs like “Lunch tmrw at 3pm” into fully structured events. I trained and fine-tuned a Flan-T5 Base model on a custom dataset of thousands of curated examples I personally wrote by hand, ensuring the NLP feels natural and reliable in real-world use.
